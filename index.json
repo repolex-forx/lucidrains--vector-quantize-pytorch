@@ -1,0 +1,11 @@
+{
+  "org": "lucidrains",
+  "repo": "vector-quantize-pytorch",
+  "versions": [
+    {
+      "commit": "4103bf2c7be993b6e0ac21d88684818c9880c478",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:12:56.144276+00:00"
+    }
+  ]
+}
