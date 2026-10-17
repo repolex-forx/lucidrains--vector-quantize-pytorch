@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/lucidrains/vector-quantize-pytorch/commit/4103bf2c7be993b6e0ac21d88684818c9880c478",
       "git:hexsha": "4103bf2c7be993b6e0ac21d88684818c9880c478",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:12:56.142806+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lucidrains/vector-quantize-pytorch/commit/102b982d4d7c7e4f34042d2d5904b1e26981d664",
